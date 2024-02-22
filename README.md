@@ -1,4 +1,9 @@
-### Hi 🙋‍♀️ linxizhu1209 💙
+<div align="center">
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=💙It's%20linxizhu1209's%20GitHub💙&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+</div>
+
 
 <!--
 **linxizhu1209/linxizhu1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +33,6 @@ Here are some ideas to get you started:
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</div>
 
